@@ -1,1 +1,5 @@
+public static void main(String[] args){
+System.out.println("Nur Idioten nutzen Python");
+}
+
 Du bist doch ein vollmongo
